@@ -1,0 +1,22 @@
+h1 {
+	color:blue;
+}
+h2 {
+	font-size:14px;
+}
+p{
+	font-size: 12px;
+	color: yellow;
+	background-color: black;
+	text-indent: 10px;
+	text-transform:uppercase;
+	text-decoration:underline;
+	text-align: center;
+	word-spacing:3px;
+	white-space: nowrap;
+	color:yellow;
+	
+}
+img{
+	border:red 2px solid;
+}
